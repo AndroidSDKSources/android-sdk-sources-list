@@ -38,3 +38,9 @@ This project is only backup of Android SDK Sources which for the people that who
 |(no codename)|1.1|API level 2|
 |(no codename)|1.0|API level 1|
 
+# Why we don't have Android API Level 11 to 13 SDK sources?
+
+> https://appleinsider.com/articles/11/03/25/google_closes_android_3_0_honeycomb_source_to_prevent_use_on_smartphones
+
+**Google has closed availability of the source code to Android 3.0 Honeycomb, explaining that the tablet-oriented software was not ready for use on smartphones and that the company didn't want outside developers or enthusiasts experimenting with it in unauthorized ways.**
+
