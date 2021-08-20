@@ -44,3 +44,5 @@ This project is only backup of Android SDK Sources which for the people that who
 
 **Google has closed availability of the source code to Android 3.0 Honeycomb, explaining that the tablet-oriented software was not ready for use on smartphones and that the company didn't want outside developers or enthusiasts experimenting with it in unauthorized ways.**
 
+> Note: maybe here and somewhere has Android API Level 11 to 13 SDK sources, but maybe it's not from the official and not suitiable for us to spread them out of the iterms of Google Android Open Source.
+
