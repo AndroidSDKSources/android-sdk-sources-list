@@ -6,37 +6,38 @@ This project is only backup of Android SDK Sources which for the people that who
 
 ## Platform codenames, versions, API levels, and NDK releases
 
-|Codename|Version|API level/NDK release|
-|:----|:----|:----|
-|Android11|11|API level 30|
-|Android10|10|API level 29|
-|Pie|9|API level 28|
-|Oreo|8.1.0|API level 27|
-|Oreo|8.0.0|API level 26|
-|Nougat|7.1|API level 25|
-|Nougat|7.0|API level 24|
-|Marshmallow|6.0|API level 23|
-|Lollipop|5.1|API level 22|
-|Lollipop|5.0|API level 21|
-|KitKat|4.4 - 4.4.4|API level 19|
-|Jelly Bean|4.3.x|API level 18|
-|Jelly Bean|4.2.x|API level 17|
-|Jelly Bean|4.1.x|API level 16|
-|Ice Cream Sandwich|4.0.3 - 4.0.4|API level 15, NDK 8|
-|Ice Cream Sandwich|4.0.1 - 4.0.2|API level 14, NDK 7|
-|Honeycomb|3.2.x|API level 13|
-|Honeycomb|3.1|API level 12, NDK 6|
-|Honeycomb|3.0|API level 11|
-|Gingerbread|2.3.3 - 2.3.7|API level 10|
-|Gingerbread|2.3 - 2.3.2|API level 9, NDK 5|
-|Froyo|2.2.x|API level 8, NDK 4|
-|Eclair|2.1|API level 7, NDK 3|
-|Eclair|2.0.1|API level 6|
-|Eclair|2.0|API level 5|
-|Donut|1.6|API level 4, NDK 2|
-|Cupcake|1.5|API level 3, NDK 1|
-|(no codename)|1.1|API level 2|
-|(no codename)|1.0|API level 1|
+|Codename|Version|API level/NDK release|SDK Sources|
+|:----|:----:|:----:|:----:|
+|Android11|11|API level 30|[android-sdk-sources-for-api-level-30](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-30)|
+|Android10|10|API level 29|[android-sdk-sources-for-api-level-29](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-29)|
+|Pie|9|API level 28|[android-sdk-sources-for-api-level-28](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-28)|
+|Oreo|8.1.0|API level 27|[android-sdk-sources-for-api-level-27](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-27)|
+|Oreo|8.0.0|API level 26|[android-sdk-sources-for-api-level-26](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-26)|
+|Nougat|7.1|API level 25|[android-sdk-sources-for-api-level-25](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-25)|
+|Nougat|7.0|API level 24|[android-sdk-sources-for-api-level-24](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-24)|
+|Marshmallow|6.0|API level 23|[android-sdk-sources-for-api-level-23](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-23)|
+|Lollipop|5.1|API level 22|[android-sdk-sources-for-api-level-22](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-22)|
+|Lollipop|5.0|API level 21|[android-sdk-sources-for-api-level-21](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-21)|
+|KitKat|4.4W|API level 20|[android-sdk-sources-for-api-level-20](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-20)|
+|KitKat|4.4 - 4.4.4|API level 19|[android-sdk-sources-for-api-level-19](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-19)|
+|Jelly Bean|4.3.x|API level 18|[android-sdk-sources-for-api-level-18](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-18)|
+|Jelly Bean|4.2.x|API level 17|[android-sdk-sources-for-api-level-17](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-17)|
+|Jelly Bean|4.1.x|API level 16|[android-sdk-sources-for-api-level-16](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-16)|
+|Ice Cream Sandwich|4.0.3 - 4.0.4|API level 15, NDK 8|[android-sdk-sources-for-api-level-15](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-15)|
+|Ice Cream Sandwich|4.0.1 - 4.0.2|API level 14, NDK 7|[android-sdk-sources-for-api-level-14](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-14)|
+|Honeycomb|3.2.x<sup>④</sup>|API level 13|Google Official Open Source Closed|
+|Honeycomb|3.1<sup>③</sup>|API level 12, NDK 6|Google Official Open Source Closed|
+|Honeycomb|3.0<sup>①</sup>|API level 11|Google Official Open Source Closed<br>[android-sdk-sources-for-api-level-11](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-11)<sup>②</sup>|
+|Gingerbread|2.3.3 - 2.3.7|API level 10|[android-sdk-sources-for-api-level-10](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-10)|
+|Gingerbread|2.3 - 2.3.2|API level 9, NDK 5|[android-sdk-sources-for-api-level-9](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-9)|
+|Froyo|2.2.x|API level 8, NDK 4|[android-sdk-sources-for-api-level-8](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-8)|
+|Eclair|2.1|API level 7, NDK 3|[android-sdk-sources-for-api-level-7](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-7)|
+|Eclair|2.0.1|API level 6|[android-sdk-sources-for-api-level-6](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-6)|
+|Eclair|2.0|API level 5|[android-sdk-sources-for-api-level-5](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-5)|
+|Donut|1.6|API level 4, NDK 2|[android-sdk-sources-for-api-level-4](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-4)|
+|Cupcake|1.5|API level 3, NDK 1|[android-sdk-sources-for-api-level-3](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-3)|
+|(no codename)|1.1|API level 2|[android-sdk-sources-for-api-level-2](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-2)|
+|(no codename)|1.0|API level 1|[android-sdk-sources-for-api-level-1](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-1)|
 
 # Why we don't have Android API Level 11 to 13 SDK sources?
 
