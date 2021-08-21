@@ -39,7 +39,10 @@ This project is only backup of Android SDK Sources which for the people that who
 |(no codename)|1.1|API level 2|[android-sdk-sources-for-api-level-2](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-2)|
 |(no codename)|1.0|API level 1|[android-sdk-sources-for-api-level-1](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-1)|
 
-# Why we don't have Android API Level 11 to 13 SDK sources?
+> ①③④ Google official open source closed for some reasons.
+> ② The Android API Level 11 SDK sources is from the internet, please don't use it with commercial use.
+
+# Why we don't have the Official Android API Level 11 to 13 SDK sources?
 
 > https://appleinsider.com/articles/11/03/25/google_closes_android_3_0_honeycomb_source_to_prevent_use_on_smartphones
 
