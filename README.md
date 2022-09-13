@@ -8,6 +8,7 @@ This project is only backup of Android SDK Sources which for the people that who
 
 |Codename|Version|API level/NDK release|SDK Sources|
 |:----|:----:|:----:|:----:|
+|Android13|12|API level 33|[android-sdk-sources-for-api-level-33](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-33) <br> 
 |Android12L|12L|API level 32|[android-sdk-sources-for-api-level-32](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-32)|
 |Android12|12|API level 31|[android-sdk-sources-for-api-level-31](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-31) <br> [android.jar](https://github.com/AndroidSDKSources/android-sdk-sources-list/blob/master/android.jar/api-level-31/android.jar)|
 |Android11|11|API level 30|[android-sdk-sources-for-api-level-30](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-30) <br> [android.jar](https://github.com/AndroidSDKSources/android-sdk-sources-list/blob/master/android.jar/api-level-30/android.jar)|
@@ -51,4 +52,10 @@ This project is only backup of Android SDK Sources which for the people that who
 **Google has closed availability of the source code to Android 3.0 Honeycomb, explaining that the tablet-oriented software was not ready for use on smartphones and that the company didn't want outside developers or enthusiasts experimenting with it in unauthorized ways.**
 
 > Note: maybe here and somewhere has Android API Level 11 to 13 SDK sources, but maybe it's not from the official and not suitiable for us to spread them out of the iterms of Google Android Open Source.
+
+## Reference
+
+[SDK Platform release notes](https://developer.android.com/studio/releases/platforms)
+
+[Android API Levels](https://apilevels.com)
 
