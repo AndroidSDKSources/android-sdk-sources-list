@@ -8,11 +8,11 @@ This project is only backup of Android SDK Sources which for the people that who
 
 |Codename|Version|API level/NDK release|SDK Sources|
 |:----|:----:|:----:|:----:|
-|Android13|13|API level 33|[android-sdk-sources-for-api-level-33](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-33)|
-|Android12L|12L|API level 32|[android-sdk-sources-for-api-level-32](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-32)|
-|Android12|12|API level 31|[android-sdk-sources-for-api-level-31](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-31) |
-|Android11|11|API level 30|[android-sdk-sources-for-api-level-30](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-30)|
-|Android10|10|API level 29|[android-sdk-sources-for-api-level-29](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-29)|
+|Tiramisu|13|API level 33|[android-sdk-sources-for-api-level-33](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-33)|
+|Snow Cone|12L|API level 32|[android-sdk-sources-for-api-level-32](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-32)|
+|Snow Cone|12|API level 31|[android-sdk-sources-for-api-level-31](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-31) |
+|Red Velvet Cake|11|API level 30|[android-sdk-sources-for-api-level-30](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-30)|
+|Quince Tart|10|API level 29|[android-sdk-sources-for-api-level-29](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-29)|
 |Pie|9|API level 28|[android-sdk-sources-for-api-level-28](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-28)|
 |Oreo|8.1.0|API level 27|[android-sdk-sources-for-api-level-27](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-27)|
 |Oreo|8.0.0|API level 26|[android-sdk-sources-for-api-level-26](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-26)|
