@@ -47,7 +47,7 @@ This project is only backup of Android SDK Sources which for the people that who
 |(no codename)|1.1|API level 2|[android-sdk-sources-for-api-level-2](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-2)|
 |(no codename)|1.0|API level 1|[android-sdk-sources-for-api-level-1](https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-1)|
 
-> ⑤⑥ 
+> ⑤⑥ [Android major & minor release](https://developer.android.com/about/versions/16/features#major-minor-releases)
 > ② The Android API Level 11 SDK sources is from the internet, please don't use it with commercial use.
 > ①③④ Google official open source closed for some reasons.  
 
